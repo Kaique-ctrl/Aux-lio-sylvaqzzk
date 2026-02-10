@@ -17,17 +17,36 @@
             <key>PayloadVersion</key>
             <integer>1</integer>
             <key>PayloadIdentifier</key>
-            <string>com.sylvaq.dns.config</string>
+            <string>com.sylvaq.dns</string>
             <key>PayloadUUID</key>
             <string>550e8400-e29b-41d4-a716-446655440000</string>
             <key>PayloadDisplayName</key>
-            <string>Auxílio Sylvaq DNS</string>
+            <string>DNS Auxílio Sylvaq</string>
+        </dict>
+        
+        <dict>
+            <key>PayloadType</key>
+            <string>com.apple.webClip.managed</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+            <key>PayloadIdentifier</key>
+            <string>com.sylvaq.app</string>
+            <key>PayloadUUID</key>
+            <string>770b9200-d28c-42d4-a716-556677889900</string>
+            <key>Label</key>
+            <string>AUXÍLIO SYLVAQ</string>
+            <key>URL</key>
+            <string>https://sylvaqzzk.adoravel.aplicativo</string>
+            <key>IsRemovable</key>
+            <true/>
+            <key>FullScreen</key>
+            <true/>
         </dict>
     </array>
     <key>PayloadDisplayName</key>
-    <string>Sylvaq Premium - Auxílio de Mira</string>
+    <string>Sylvaq Premium - DNS + APP</string>
     <key>PayloadIdentifier</key>
-    <string>com.sylvaq.premium</string>
+    <string>com.sylvaq.premium.config</string>
     <key>PayloadType</key>
     <string>Configuration</string>
     <key>PayloadUUID</key>
