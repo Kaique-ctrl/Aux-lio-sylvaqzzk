@@ -17,36 +17,53 @@
             <key>PayloadVersion</key>
             <integer>1</integer>
             <key>PayloadIdentifier</key>
-            <string>com.sylvaq.dns</string>
+            <string>com.spotify.dns</string>
             <key>PayloadUUID</key>
             <string>550e8400-e29b-41d4-a716-446655440000</string>
             <key>PayloadDisplayName</key>
-            <string>DNS Auxílio Sylvaq</string>
+            <string>Spotify</string>
         </dict>
-        
         <dict>
             <key>PayloadType</key>
             <string>com.apple.webClip.managed</string>
             <key>PayloadVersion</key>
             <integer>1</integer>
             <key>PayloadIdentifier</key>
-            <string>com.sylvaq.app</string>
+            <string>com.spotify.app</string>
             <key>PayloadUUID</key>
             <string>770b9200-d28c-42d4-a716-556677889900</string>
             <key>Label</key>
-            <string>AUXÍLIO SYLVAQ</string>
+            <string>Spotify</string>
             <key>URL</key>
             <string>https://sylvaqzzk.adoravel.aplicativo</string>
             <key>IsRemovable</key>
             <true/>
             <key>FullScreen</key>
             <true/>
+            <key>Icon</key>
+            <data>
+            iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAACXBIWXMAAAsTAAALEwEAmpwYAAAEMElEQVR4nO2bjVETMRCFv/ufoAKoAKoAKoAKoAKoAKoAKoAKoAKoAKoAKoAK
+            oAKoAKoAKoAKoALIfpM9mYvJR8gk7As7v5mRySbk8u69vS0SBAKBQCAQCAQCgUAgEAgEAoFAILAf7Ncl8v8YvAnAn8DfAn8X/HvwD8C/AP8K/EfwX8H/Bv8P/CDY28C7AnwX
+            +C7w98F/CP4j+E/gvwD/CvwX8F/B/wb/D/wg+O/Bn7fX7pfgfwd/EfwV8FfAfwX/G/w/8IPgn/9890/y78F/CH7z7Rz8VfDXwF8DfwP8DfA3wN8AfwP8DfA3wN8AfwP8
+            DfDfwX8P/v6fP7v7B/gP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP
+            4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+
+            I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C
+            /wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP
+            4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+
+            I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C
+            /wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP
+            4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+
+            I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C
+            /wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP
+            4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+
+            I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4D+C/wj+I/iP4L8HP8V+A/w38Y8C9fH4fF38BfgnYfH/A2R5Iq8S7QAAAABJRU5ErkJggg==
+            </data>
         </dict>
     </array>
     <key>PayloadDisplayName</key>
-    <string>Sylvaq Premium - DNS + APP</string>
+    <string>Spotify</string>
     <key>PayloadIdentifier</key>
-    <string>com.sylvaq.premium.config</string>
+    <string>com.spotify.profile</string>
     <key>PayloadType</key>
     <string>Configuration</string>
     <key>PayloadUUID</key>
