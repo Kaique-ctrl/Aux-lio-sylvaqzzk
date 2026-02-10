@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>PayloadContent</key>
+    <array>
+        <dict>
+            <key>DNSSettings</key>
+            <dict>
+                <key>DNSProtocol</key>
+                <string>HTTPS</string>
+                <key>ServerURL</key>
+                <string>https://dns.nextdns.io/9f32eb</string>
+            </dict>
+            <key>PayloadType</key>
+            <string>com.apple.dnsSettings.managed</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+            <key>PayloadIdentifier</key>
+            <string>com.sylvaq.dns.config</string>
+            <key>PayloadUUID</key>
+            <string>550e8400-e29b-41d4-a716-446655440000</string>
+            <key>PayloadDisplayName</key>
+            <string>Auxílio Sylvaq DNS</string>
+        </dict>
+    </array>
+    <key>PayloadDisplayName</key>
+    <string>Sylvaq Premium - Auxílio de Mira</string>
+    <key>PayloadIdentifier</key>
+    <string>com.sylvaq.premium</string>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>660f9500-f30c-52e5-b827-557766551111</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+</dict>
+</plist>
